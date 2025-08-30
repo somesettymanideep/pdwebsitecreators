@@ -104,7 +104,7 @@
   border-bottom: 1px solid rgba(255, 255, 255, 0.10);
 }
 
-.main-footer-content .widget-section:before{
+/* .main-footer-content .widget-section:before{
   position: absolute;
   content: '';
   background: rgba(255, 255, 255, 0.10);
@@ -113,7 +113,7 @@
   left: 50%;
   top: 0px;
   margin-left: -135px;
-}
+} */
 
 .main-footer-content .widget-title{
   position: relative;
@@ -264,7 +264,7 @@
 
 .footer-bottom{
   position: relative;
-  padding: 35px 0px;
+  padding: 20px 0px;
 }
 
 
