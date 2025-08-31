@@ -504,6 +504,7 @@ img {
   transform: translateY(15px);
   -webkit-transition: all 200ms linear;
   transition: all 200ms linear;
+  background-color:#fff;
 }
 
 .scroll-to-top.scroll-top-active {
